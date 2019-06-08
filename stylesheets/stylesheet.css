@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: #151515 url("../images/rock_texture.jpg") 0 0;
-  color: #eaeaea;
+  color: white;
   font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -136,7 +136,7 @@ ul li:before {
   content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
-  color: #b5e853;
+  color: white;
   margin-left: -37px;
   margin-right: 21px;
   line-height: 16px;
@@ -153,7 +153,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 14px;
-  color: #b5e853;
+  color: orange;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -181,7 +181,7 @@ hr {
   height: 0;
   border: 0;
   border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  color: orange;
 }
 
 /* Buttons
