@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/untitled.sub6.0079.png") 0 0;
+  background: #000 url("../images/untitled.sub6.0079.png") 0 0;
   color: white;
   font: 16px;
   line-height: 1.5;
@@ -10,7 +10,7 @@ body {
 
 /* General & 'Reset' Stuff */
 .mainstuff{
-  background: #151515 url("../images/untitled.sub6.0079.png") 0 0;
+  background: #000 url("../images/untitled.sub6.0079.png") 0 0;
   right: 0;
   bottom: 0;
   min-width: 100%;
@@ -32,7 +32,7 @@ li {
 */
 
 header {
-  background: #000;
+  background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
