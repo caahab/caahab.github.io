@@ -9,7 +9,13 @@ body {
 }
 
 /* General & 'Reset' Stuff */
-
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
 .container {
   width: 90%;
   max-width: 600px;
