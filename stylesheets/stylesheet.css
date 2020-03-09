@@ -9,16 +9,12 @@ body {
 }
 
 /* General & 'Reset' Stuff */
-#myVideo {
-  position: fixed;
+.mainstuff{
+  background: #151515 url("../images/untitled.sub6.0079.png") 0 0;
   right: 0;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
-}
-
-.mainstuff{
-  background: #151515 url("../images/untitled.sub6.0079.png") 0 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
